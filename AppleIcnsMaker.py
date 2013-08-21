@@ -8,6 +8,8 @@ import argparse,shutil
 import os,sys
 
 def ImageProcess(tagImage):
+	if type(tagImage)!='str':
+		tagImage=str(tagImage[0])
 	if not os.path.isfile(tagImage):
 		print '>>>Error path, please choose the png image path.'
 		sys.exit()
