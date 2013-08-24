@@ -1,7 +1,7 @@
 AppleIcnsMaker
 ==============
 
-To Maker the OS X Apps icon from a square png image.
+To make the OS X Apps icon from a square png image.
 
 Requirment
 =============
