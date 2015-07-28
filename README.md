@@ -22,3 +22,13 @@ v1.0
 Warning
 ==========
 If the png image is not 512x512 or more high quality, the icon would be unsharp.
+
+Update the GUI version
+==========
+
+Usage
+===========
+
+      $python AppleIcnsMaker_GUI.python
+      
+
